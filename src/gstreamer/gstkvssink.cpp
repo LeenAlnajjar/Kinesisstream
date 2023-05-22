@@ -101,7 +101,7 @@ GST_DEBUG_CATEGORY_STATIC (gst_kvs_sink_debug);
 #define DEFAULT_TRACKNAME "kinesis_video"
 #define DEFAULT_ACCESS_KEY "access_key"
 #define DEFAULT_SECRET_KEY "secret_key"
-#define DEFAULT_REGION "us-west-2"
+#define DEFAULT_REGION "eu-west-1"
 #define DEFAULT_ROTATION_PERIOD_SECONDS 3600
 #define DEFAULT_LOG_FILE_PATH "../kvs_log_configuration"
 #define DEFAULT_STORAGE_SIZE_MB 128
